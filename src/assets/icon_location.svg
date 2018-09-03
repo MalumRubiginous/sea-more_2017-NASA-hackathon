@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/icon_location</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/icon_location" stroke="#FFFFFF">
+            <circle id="Oval" cx="12" cy="12" r="10.5"></circle>
+            <polygon id="ion-navigate---Ionicons" stroke-linecap="round" stroke-linejoin="round" transform="translate(11.464466, 12.464466) rotate(-360.000000) translate(-11.464466, -12.464466) " points="16 8 12.1428571 17 11.1428571 12.8571429 7 11.8571429"></polygon>
+        </g>
+    </g>
+</svg>
